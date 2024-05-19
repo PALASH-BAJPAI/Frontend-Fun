@@ -17,10 +17,13 @@ Blur Effect
 
 ```
 
+<br/>
+<br/>
 The selectors ul:hover li and ul:hover differ in scope and effect:
 
-## ul:hover li:
-This selector targets all <li> elements within a <ul> when the <ul> itself is being hovered over.
+## ul:hover li
+
+This selector targets all \<li> elements within a \<ul> when the \<ul> itself is being hovered over.
 Example effect: Changes the style of all list items when the user hovers over the list.
 css
 ```css
@@ -30,7 +33,7 @@ ul:hover li {
 ```
 
 ## ul:hover:
-This selector targets the <ul> element itself when it is being hovered over.
+This selector targets the \<ul> element itself when it is being hovered over.
 Example effect: Changes the style of the entire list when the user hovers over it.
 ```css
 
@@ -40,7 +43,7 @@ ul:hover {
 ```
 
 Adding li at the end of the selector changes the focus from the entire list (ul) to the individual list items (li).
-
-
-##Demo
+<br/>
+<br/>
+## Demo
 ![alt text](image.png)
