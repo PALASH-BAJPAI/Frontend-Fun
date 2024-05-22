@@ -18,6 +18,8 @@ body{
     margin:0 20px;
     background: rgb(226, 23, 57);
     animation: animate 1.4s linear infinite;
+    color:white;
+    font-size: 20px;
 }
 
 .loader span:nth-child(1){
@@ -41,6 +43,7 @@ body{
 .loader span:nth-child(7){
     animation-delay: 1.2s;
 }
+
 
 
 @keyframes animate {
