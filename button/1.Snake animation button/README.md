@@ -1,5 +1,5 @@
 # Frontend-Fun
-Box loader
+Snake Animated Button
 
 ## Learnings
 The overflow property should be applied to the parent element to control the behavior of child elements' overflow content. This is because the parent is the container that can either allow or restrict content from spilling out.
