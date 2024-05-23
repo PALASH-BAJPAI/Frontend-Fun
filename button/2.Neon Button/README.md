@@ -15,4 +15,4 @@ add 3 box shadow of same color but different spread.
 ```
 
 ## Demo
-<video controls src="20240523-1631-49.8032659.mp4" title="Neon Button"></video>
+![Game Process](https://github.com/PALASH-BAJPAI/Frontend-Fun/blob/main/button/2.Neon%20Button/video.gif)
