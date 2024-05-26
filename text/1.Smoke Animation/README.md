@@ -32,4 +32,4 @@ If any component is omitted, its default value is used:
 8. animation-play-state: running
 
 ## Demo
-![Video](https://github.com/PALASH-BAJPAI/Frontend-Fun/blob/main/button/2.Neon%20Button/smoke_effect.gif)
+![Video](https://github.com/PALASH-BAJPAI/Frontend-Fun/blob/main/text/1.Smoke%20Animation/smoke_effect.gif)
